@@ -1,0 +1,5 @@
+# Existing trace analysis utility.
+pandas>=2.0,<3.0
+
+# Mobile-friendly web interface and GitHub deployment target.
+streamlit>=1.40,<2.0

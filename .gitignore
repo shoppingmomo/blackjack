@@ -1,0 +1,11 @@
+__pycache__/
+table/
+pictures/
+research/
+*.bat
+*.py[cod]
+.streamlit/secrets.toml
+.env
+.venv/
+blackjack_trace.jsonl
+CODE_EXPLANATION.md
